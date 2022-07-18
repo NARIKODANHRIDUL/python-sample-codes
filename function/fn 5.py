@@ -1,3 +1,4 @@
+# even or odd
 def check(n):
     if n%2==0:
         print('given number is even')
