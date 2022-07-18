@@ -1,3 +1,4 @@
+# sum and difference
 def calculation(x,y):
     return(x+y,x-y)
 x=int(input('enter first number :'))
