@@ -1,0 +1,5 @@
+b1=float(input('Enter the base 1 length :'))
+b2=float(input('Enter the base 2 length :'))
+h=float(input('Enter the height       :'))
+a=(1/2)*h*(b1+b2)
+print('Area of the given isosceles trapezoid is',a)
