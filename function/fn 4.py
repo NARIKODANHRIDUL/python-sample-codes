@@ -1,3 +1,4 @@
+# checking vote eligibility
 def vote(a):
     if a<18:
         print('0000PSS!!! You are not able to vote :( ')
