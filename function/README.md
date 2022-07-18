@@ -1,4 +1,4 @@
-# FUNCTIONS
+## FUNCTIONS
 - fn1 - area and perimeter of rectangle
 - fn2 - area and circumference of circle
 - fn3 - power of a number
