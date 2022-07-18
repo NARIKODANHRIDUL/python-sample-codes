@@ -1,3 +1,4 @@
+# area and circumference of circle
 def circle(radius):
     area=3.14*radius*radius
     circ=2*3.14*radius
