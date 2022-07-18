@@ -1,3 +1,4 @@
+# function to calculate area and perimeter
 def rect(l,b):
     a=l*b
     p=2*(l+b)
