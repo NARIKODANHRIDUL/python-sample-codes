@@ -1,3 +1,4 @@
+# power of a number
 def pow(n,p):
     print(n,'rise to',p,'=',n**p)
 n=int(input('Enter a number :'))
