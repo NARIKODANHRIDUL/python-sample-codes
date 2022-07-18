@@ -1,3 +1,4 @@
+# displaying input
 def showEmployee(n,s='9000'):
     print('name =',n)
     print('salary =',s)
